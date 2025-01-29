@@ -42,4 +42,4 @@ Si besoin, tu peux me contacter à **matthieu.kremer9@gmail.com**
 
 ---
 
-**🛠 Dernière mise à jour :** _$(20/01/2025)_  
+**🛠 Dernière mise à jour :** _20/01/2025_
